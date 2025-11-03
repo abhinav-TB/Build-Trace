@@ -1,0 +1,162 @@
+[
+  {
+    "id": "C1",
+    "type": "door",
+    "x": 10,
+    "y": 0,
+    "width": 3,
+    "height": 2
+  },
+  {
+    "id": "A2",
+    "type": "beam",
+    "x": 7,
+    "y": 42,
+    "width": 4,
+    "height": 1
+  },
+  {
+    "id": "D3",
+    "type": "column",
+    "x": 7,
+    "y": 16,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "id": "C4",
+    "type": "beam",
+    "x": 50,
+    "y": 26,
+    "width": 3,
+    "height": 2
+  },
+  {
+    "id": "B5",
+    "type": "door",
+    "x": 37,
+    "y": 42,
+    "width": 3,
+    "height": 1
+  },
+  {
+    "id": "D6",
+    "type": "window",
+    "x": 6,
+    "y": 6,
+    "width": 2,
+    "height": 1
+  },
+  {
+    "id": "W7",
+    "type": "wall",
+    "x": 39,
+    "y": 24,
+    "width": 16,
+    "height": 2
+  },
+  {
+    "id": "C8",
+    "type": "wall",
+    "x": 45,
+    "y": 27,
+    "width": 20,
+    "height": 1
+  },
+  {
+    "id": "C9",
+    "type": "beam",
+    "x": 24,
+    "y": 7,
+    "width": 5,
+    "height": 2
+  },
+  {
+    "id": "W10",
+    "type": "door",
+    "x": 42,
+    "y": 36,
+    "width": 3,
+    "height": 1
+  },
+  {
+    "id": "A11",
+    "type": "window",
+    "x": 42,
+    "y": 36,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "id": "D12",
+    "type": "beam",
+    "x": 30,
+    "y": 33,
+    "width": 9,
+    "height": 2
+  },
+  {
+    "id": "W13",
+    "type": "door",
+    "x": 40,
+    "y": 29,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "id": "W14",
+    "type": "wall",
+    "x": 41,
+    "y": 37,
+    "width": 12,
+    "height": 2
+  },
+  {
+    "id": "D15",
+    "type": "column",
+    "x": 32,
+    "y": 10,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "id": "W16",
+    "type": "wall",
+    "x": 33,
+    "y": 8,
+    "width": 20,
+    "height": 1
+  },
+  {
+    "id": "A17",
+    "type": "door",
+    "x": 45,
+    "y": 40,
+    "width": 1,
+    "height": 3
+  },
+  {
+    "id": "C18",
+    "type": "door",
+    "x": 36,
+    "y": 17,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "id": "W19",
+    "type": "window",
+    "x": 23,
+    "y": 43,
+    "width": 1,
+    "height": 3
+  },
+  {
+    "id": "W20",
+    "type": "column",
+    "x": 31,
+    "y": 50,
+    "width": 2,
+    "height": 1
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "W1",
+    "type": "wall",
+    "x": 35,
+    "y": 44,
+    "width": 19,
+    "height": 1
+  },
+  {
+    "id": "D2",
+    "type": "window",
+    "x": 48,
+    "y": 12,
+    "width": 3,
+    "height": 2
+  },
+  {
+    "id": "C3",
+    "type": "beam",
+    "x": 19,
+    "y": 19,
+    "width": 15,
+    "height": 1
+  },
+  {
+    "id": "B4",
+    "type": "column",
+    "x": 41,
+    "y": 41,
+    "width": 1,
+    "height": 2
+  },
+  {
+    "id": "D5",
+    "type": "column",
+    "x": 12,
+    "y": 16,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "id": "C6",
+    "type": "wall",
+    "x": 34,
+    "y": 26,
+    "width": 14,
+    "height": 2
+  },
+  {
+    "id": "B7",
+    "type": "window",
+    "x": 13,
+    "y": 26,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "id": "W8",
+    "type": "beam",
+    "x": 1,
+    "y": 8,
+    "width": 4,
+    "height": 2
+  },
+  {
+    "id": "B9",
+    "type": "beam",
+    "x": 1,
+    "y": 16,
+    "width": 15,
+    "height": 1
+  },
+  {
+    "id": "B10",
+    "type": "beam",
+    "x": 27,
+    "y": 16,
+    "width": 14,
+    "height": 2
+  },
+  {
+    "id": "A11",
+    "type": "window",
+    "x": 47,
+    "y": 12,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "id": "A12",
+    "type": "door",
+    "x": 24,
+    "y": 10,
+    "width": 3,
+    "height": 1
+  },
+  {
+    "id": "D13",
+    "type": "door",
+    "x": 46,
+    "y": 46,
+    "width": 2,
+    "height": 1
+  },
+  {
+    "id": "B14",
+    "type": "beam",
+    "x": 12,
+    "y": 34,
+    "width": 12,
+    "height": 2
+  },
+  {
+    "id": "D15",
+    "type": "wall",
+    "x": 28,
+    "y": 23,
+    "width": 5,
+    "height": 2
+  },
+  {
+    "id": "W16",
+    "type": "beam",
+    "x": 6,
+    "y": 29,
+    "width": 4,
+    "height": 1
+  },
+  {
+    "id": "W17",
+    "type": "column",
+    "x": 2,
+    "y": 34,
+    "width": 1,
+    "height": 2
+  },
+  {
+    "id": "C18",
+    "type": "window",
+    "x": 28,
+    "y": 6,
+    "width": 3,
+    "height": 1
+  },
+  {
+    "id": "C19",
+    "type": "door",
+    "x": 2,
+    "y": 4,
+    "width": 3,
+    "height": 1
+  },
+  {
+    "id": "A20",
+    "type": "wall",
+    "x": 36,
+    "y": 2,
+    "width": 18,
+    "height": 2
+  }
+]

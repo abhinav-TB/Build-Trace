@@ -1,0 +1,54 @@
+{
+  "pairs": [
+    {
+      "id": "sample-drawing-001",
+      "a": "gs://bt-challenge-abhinav/inputs/DRAWING-0001_vA.json",
+      "b": "gs://bt-challenge-abhinav/inputs/DRAWING-0001_vB.json"
+    },
+    {
+      "id": "sample-drawing-002",
+      "a": "gs://bt-challenge-abhinav/inputs/DRAWING-0002_vA.json",
+      "b": "gs://bt-challenge-abhinav/inputs/DRAWING-0002_vB.json"
+    },
+    {
+      "id": "sample-drawing-003",
+      "a": "gs://bt-challenge-abhinav/inputs/DRAWING-0003_vA.json",
+      "b": "gs://bt-challenge-abhinav/inputs/DRAWING-0003_vB.json"
+    },
+    {
+      "id": "sample-drawing-004",
+      "a": "gs://bt-challenge-abhinav/inputs/DRAWING-0004_vA.json",
+      "b": "gs://bt-challenge-abhinav/inputs/DRAWING-0004_vB.json"
+    },
+    {
+      "id": "sample-drawing-005",
+      "a": "gs://bt-challenge-abhinav/inputs/DRAWING-0005_vA.json",
+      "b": "gs://bt-challenge-abhinav/inputs/DRAWING-0005_vB.json"
+    },
+    {
+      "id": "sample-drawing-006",
+      "a": "gs://bt-challenge-abhinav/inputs/DRAWING-0006_vA.json",
+      "b": "gs://bt-challenge-abhinav/inputs/DRAWING-0006_vB.json"
+    },
+    {
+      "id": "sample-drawing-007",
+      "a": "gs://bt-challenge-abhinav/inputs/DRAWING-0007_vA.json",
+      "b": "gs://bt-challenge-abhinav/inputs/DRAWING-0007_vB.json"
+    },
+    {
+      "id": "sample-drawing-008",
+      "a": "gs://bt-challenge-abhinav/inputs/DRAWING-0008_vA.json",
+      "b": "gs://bt-challenge-abhinav/inputs/DRAWING-0008_vB.json"
+    },
+    {
+      "id": "sample-drawing-009",
+      "a": "gs://bt-challenge-abhinav/inputs/DRAWING-0009_vA.json",
+      "b": "gs://bt-challenge-abhinav/inputs/DRAWING-0009_vB.json"
+    },
+    {
+      "id": "sample-drawing-010",
+      "a": "gs://bt-challenge-abhinav/inputs/DRAWING-0010_vA.json",
+      "b": "gs://bt-challenge-abhinav/inputs/DRAWING-0010_vB.json"
+    }
+  ]
+}

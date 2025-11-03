@@ -1,0 +1,186 @@
+[
+  {
+    "id": "B1",
+    "type": "door",
+    "x": 32,
+    "y": 26,
+    "width": 3,
+    "height": 2
+  },
+  {
+    "id": "C2",
+    "type": "beam",
+    "x": 17,
+    "y": 9,
+    "width": 10,
+    "height": 1
+  },
+  {
+    "id": "C3",
+    "type": "beam",
+    "x": 10,
+    "y": 25,
+    "width": 9,
+    "height": 1
+  },
+  {
+    "id": "C4",
+    "type": "wall",
+    "x": 32,
+    "y": 29,
+    "width": 7,
+    "height": 1
+  },
+  {
+    "id": "D6",
+    "type": "column",
+    "x": 17,
+    "y": 39,
+    "width": 1,
+    "height": 2
+  },
+  {
+    "id": "D7",
+    "type": "beam",
+    "x": 6,
+    "y": 37,
+    "width": 6,
+    "height": 1
+  },
+  {
+    "id": "B8",
+    "type": "column",
+    "x": 34,
+    "y": 15,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "id": "D9",
+    "type": "window",
+    "x": 15,
+    "y": 44,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "id": "C10",
+    "type": "window",
+    "x": 17,
+    "y": 24,
+    "width": 2,
+    "height": 3
+  },
+  {
+    "id": "B11",
+    "type": "column",
+    "x": 16,
+    "y": 45,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "id": "C12",
+    "type": "column",
+    "x": 7,
+    "y": 49,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "id": "A13",
+    "type": "window",
+    "x": 1,
+    "y": 49,
+    "width": 1,
+    "height": 3
+  },
+  {
+    "id": "D15",
+    "type": "wall",
+    "x": -5,
+    "y": 16,
+    "width": 9,
+    "height": 1
+  },
+  {
+    "id": "C16",
+    "type": "column",
+    "x": 2,
+    "y": 14,
+    "width": 1,
+    "height": 2
+  },
+  {
+    "id": "W17",
+    "type": "window",
+    "x": 36,
+    "y": 20,
+    "width": 2,
+    "height": 1
+  },
+  {
+    "id": "A18",
+    "type": "wall",
+    "x": 39,
+    "y": 18,
+    "width": 18,
+    "height": 2
+  },
+  {
+    "id": "D19",
+    "type": "wall",
+    "x": 13,
+    "y": 17,
+    "width": 19,
+    "height": 1
+  },
+  {
+    "id": "C20",
+    "type": "window",
+    "x": 27,
+    "y": 16,
+    "width": 1,
+    "height": 3
+  },
+  {
+    "id": "NEW1",
+    "type": "column",
+    "x": 29,
+    "y": 31,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "id": "NEW2",
+    "type": "beam",
+    "x": 16,
+    "y": 27,
+    "width": 15,
+    "height": 2
+  },
+  {
+    "id": "NEW3",
+    "type": "beam",
+    "x": 41,
+    "y": 29,
+    "width": 10,
+    "height": 1
+  },
+  {
+    "id": "NEW4",
+    "type": "column",
+    "x": 26,
+    "y": 21,
+    "width": 2,
+    "height": 1
+  },
+  {
+    "id": "NEW5",
+    "type": "window",
+    "x": 31,
+    "y": 21,
+    "width": 3,
+    "height": 3
+  }
+]

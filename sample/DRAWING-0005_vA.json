@@ -1,0 +1,162 @@
+[
+  {
+    "id": "A1",
+    "type": "column",
+    "x": 14,
+    "y": 5,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "id": "C2",
+    "type": "beam",
+    "x": 32,
+    "y": 45,
+    "width": 13,
+    "height": 1
+  },
+  {
+    "id": "C3",
+    "type": "beam",
+    "x": 24,
+    "y": 16,
+    "width": 14,
+    "height": 2
+  },
+  {
+    "id": "A4",
+    "type": "wall",
+    "x": 43,
+    "y": 8,
+    "width": 11,
+    "height": 2
+  },
+  {
+    "id": "A5",
+    "type": "door",
+    "x": 8,
+    "y": 40,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "id": "C6",
+    "type": "wall",
+    "x": 11,
+    "y": 15,
+    "width": 9,
+    "height": 1
+  },
+  {
+    "id": "W7",
+    "type": "wall",
+    "x": 31,
+    "y": 14,
+    "width": 14,
+    "height": 1
+  },
+  {
+    "id": "C8",
+    "type": "column",
+    "x": 35,
+    "y": 20,
+    "width": 2,
+    "height": 1
+  },
+  {
+    "id": "D9",
+    "type": "wall",
+    "x": 49,
+    "y": 22,
+    "width": 15,
+    "height": 1
+  },
+  {
+    "id": "W10",
+    "type": "door",
+    "x": 27,
+    "y": 11,
+    "width": 2,
+    "height": 3
+  },
+  {
+    "id": "B11",
+    "type": "beam",
+    "x": 4,
+    "y": 10,
+    "width": 7,
+    "height": 1
+  },
+  {
+    "id": "W12",
+    "type": "column",
+    "x": 34,
+    "y": 8,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "id": "D13",
+    "type": "door",
+    "x": 2,
+    "y": 31,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "id": "D14",
+    "type": "column",
+    "x": 19,
+    "y": 47,
+    "width": 2,
+    "height": 1
+  },
+  {
+    "id": "W15",
+    "type": "door",
+    "x": 4,
+    "y": 4,
+    "width": 2,
+    "height": 3
+  },
+  {
+    "id": "B16",
+    "type": "beam",
+    "x": 22,
+    "y": 20,
+    "width": 9,
+    "height": 1
+  },
+  {
+    "id": "A17",
+    "type": "window",
+    "x": 43,
+    "y": 2,
+    "width": 3,
+    "height": 2
+  },
+  {
+    "id": "W18",
+    "type": "door",
+    "x": 50,
+    "y": 22,
+    "width": 2,
+    "height": 1
+  },
+  {
+    "id": "D19",
+    "type": "column",
+    "x": 5,
+    "y": 28,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "id": "D20",
+    "type": "beam",
+    "x": 4,
+    "y": 41,
+    "width": 5,
+    "height": 1
+  }
+]

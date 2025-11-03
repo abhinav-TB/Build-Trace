@@ -1,0 +1,162 @@
+[
+  {
+    "id": "A1",
+    "type": "window",
+    "x": 40,
+    "y": 39,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "id": "D2",
+    "type": "window",
+    "x": 25,
+    "y": 7,
+    "width": 3,
+    "height": 1
+  },
+  {
+    "id": "W4",
+    "type": "column",
+    "x": 4,
+    "y": 16,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "id": "B5",
+    "type": "door",
+    "x": 3,
+    "y": 38,
+    "width": 1,
+    "height": 2
+  },
+  {
+    "id": "B6",
+    "type": "door",
+    "x": 38,
+    "y": 38,
+    "width": 3,
+    "height": 2
+  },
+  {
+    "id": "B8",
+    "type": "beam",
+    "x": 16,
+    "y": 36,
+    "width": 9,
+    "height": 2
+  },
+  {
+    "id": "B9",
+    "type": "wall",
+    "x": 30,
+    "y": 46,
+    "width": 12,
+    "height": 2
+  },
+  {
+    "id": "D10",
+    "type": "wall",
+    "x": 26,
+    "y": 31,
+    "width": 6,
+    "height": 1
+  },
+  {
+    "id": "C11",
+    "type": "wall",
+    "x": 25,
+    "y": 29,
+    "width": 10,
+    "height": 2
+  },
+  {
+    "id": "D12",
+    "type": "beam",
+    "x": 33,
+    "y": 50,
+    "width": 10,
+    "height": 2
+  },
+  {
+    "id": "C13",
+    "type": "window",
+    "x": 36,
+    "y": 29,
+    "width": 2,
+    "height": 1
+  },
+  {
+    "id": "D14",
+    "type": "beam",
+    "x": 2,
+    "y": 26,
+    "width": 10,
+    "height": 2
+  },
+  {
+    "id": "A15",
+    "type": "wall",
+    "x": 47,
+    "y": 14,
+    "width": 12,
+    "height": 1
+  },
+  {
+    "id": "D16",
+    "type": "beam",
+    "x": 33,
+    "y": 24,
+    "width": 9,
+    "height": 2
+  },
+  {
+    "id": "B17",
+    "type": "column",
+    "x": 35,
+    "y": 49,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "id": "C18",
+    "type": "beam",
+    "x": 24,
+    "y": 4,
+    "width": 14,
+    "height": 2
+  },
+  {
+    "id": "W19",
+    "type": "wall",
+    "x": 4,
+    "y": 26,
+    "width": 6,
+    "height": 2
+  },
+  {
+    "id": "NEW1",
+    "type": "window",
+    "x": 49,
+    "y": 19,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "id": "NEW2",
+    "type": "beam",
+    "x": 24,
+    "y": 29,
+    "width": 4,
+    "height": 2
+  },
+  {
+    "id": "NEW3",
+    "type": "window",
+    "x": 34,
+    "y": 18,
+    "width": 2,
+    "height": 2
+  }
+]
